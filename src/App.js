@@ -34,7 +34,7 @@ function App() {
       </div>
       <div className="a_Ammount ">
         <button className="a_btn" onClick={(e)=>{addFund(e)}}>Add fund</button>&nbsp;&nbsp;&nbsp;
-        <button className="a_btn" onClick={(e)=>{withdraw(e)}}>Withdraw</button>
+        <button className="a_btn" onClick={(e)=>{withdraw(e)}}>Witdraw</button>
       </div>
     </>
   );
